@@ -1,0 +1,21 @@
+{
+  "name": "ui-renderer-react",
+  "version": "0.0.1",
+  "description": "A react renderer for ServiceNow components",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Freund",
+  "license": "MIT",
+  "dependencies": {
+    "@servicenow/ui-internal": "^18.2.5",
+    "fbjs": "^3.0.0",
+    "object-assign": "^4.1.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
