@@ -17,5 +17,17 @@
     "object-assign": "^4.1.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quixomatic/ui-renderer-react.git"
+  },
+  "keywords": [
+    "renderer",
+    "SalesWon"
+  ],
+  "bugs": {
+    "url": "https://github.com/Quixomatic/ui-renderer-react/issues"
+  },
+  "homepage": "https://github.com/Quixomatic/ui-renderer-react#readme"
 }
