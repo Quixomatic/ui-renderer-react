@@ -1,7 +1,7 @@
 {
-  "name": "@saleswon/renderer",
-  "version": "0.3.3",
-  "description": "A react renderer for SalesWon",
+  "name": "@quixomatic/ui-renderer-react",
+  "version": "1.0.0",
+  "description": "A react renderer for ServiceNow components",
   "main": "./lib/index.js",
   "directories": {
     "lib": "lib"
@@ -15,8 +15,8 @@
     "@servicenow/ui-internal": "^18.2.5",
     "fbjs": "^3.0.0",
     "object-assign": "^4.1.1",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,8 @@
   },
   "keywords": [
     "renderer",
-    "SalesWon"
+    "servicenow",
+    "quixomatic"
   ],
   "bugs": {
     "url": "https://github.com/Quixomatic/ui-renderer-react/issues"

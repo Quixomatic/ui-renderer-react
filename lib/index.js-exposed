@@ -1,0 +1,1 @@
+module.exports = global["__TECTONIC__$servicenow_ui_renderer_react"] = require("-!./index.js");
